@@ -1,1 +1,8 @@
-# EXERC-CIO-1
+# PRIMEIRA PÁGINA WEB 1° C
+## DESENVOLVIDO POR
+### ESTUDANTE DANILO JOSÉ 😎
+### ED.FISICA 😍
+### QUÍMICA 😩
+### Site desenvolvido em HTMNL e CSS
+**Áreas afins**
+### GOSTO DE JOGAR FUTEBOL E ANDAR DE BICICLETA 🆒😄
