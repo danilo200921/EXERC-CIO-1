@@ -5,4 +5,4 @@
 ### QUÍMICA 😩
 ### Site desenvolvido em HTMNL e CSS
 **Áreas afins**
-### GOSTO DE JOGAR FUTEBOL E ANDAR DE BICICLETA 🆒😄
+### GOSTO DE JOGAR FUTEBOL E ANDAR DE BICICLETA 😄
